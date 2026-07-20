@@ -2,7 +2,7 @@
 
 ## Tutorial Project
 
-- These projects were created while following online courses and tutorials.
+- This project was created while following online courses and tutorials.
 - Machine Learning project using Decision Tree for Social Network Ads Prediction with data preprocessing, feature scaling, and model evaluation.
 
 ## Features
